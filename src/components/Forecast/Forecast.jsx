@@ -3,7 +3,7 @@ import './Forecast.css'
 
 function Forecast() {
   return (
-    <div>Forecase</div>
+    <div>Forecast</div>
   )
 }
 
