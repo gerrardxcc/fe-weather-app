@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  height: 100vh;
+  padding: 50px;
+  background-image: url('https://images.pexels.com/photos/1275415/pexels-photo-1275415.jpeg?cs=srgb&dl=pexels-vojta-kova%C5%99%C3%ADk-1275415.jpg&fm=jpg');
+  background-size: 100% 100%;
 }
 
 .App-logo {
@@ -36,3 +40,4 @@
     transform: rotate(360deg);
   }
 }
+
